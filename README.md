@@ -20,6 +20,13 @@ O sistema possui dois estados isolados de funcionamento:
 4. Abra o Serial Monitor
 5. Se divirta!
 
+## Como colaborar?
+
+1. Clone o repositório
+2. Crie uma branch separada com ```git checkout -b sua-branch```
+3. Faça commit da sua contribuição e faça um push
+4. Abra um PR no repositório
+
 ## Tecnologias Utilizadas
 * C (Linguagem)
 
