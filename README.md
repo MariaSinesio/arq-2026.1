@@ -13,12 +13,14 @@ O sistema possui dois estados isolados de funcionamento:
 - **Entrada:** Teclado Matricial 4x4, Sensor de Distância (Ultrassônico)
 - **Saída:** Display de 7 Segmentos, LEDs indicadores, Buzzer, Serial Monitor
 
-## Como Executar
+## Como Executar?
 1. Clone o repositório
 2. Monte o circuito conforme o diagrama, desenho.
 3. Faça o upload do código `main.ino` para o Arduino Mega.
 4. Abra o Serial Monitor
 5. Se divirta!
+
+Obs: Existe um print e um desenho nada intuitivo na pasta de sketch, entretanto, há uma forma mais dinâmica de interagir com um esboço do projeto através do seguinte [link](https://wokwi.com/projects/461948142420101121)
 
 ## Como colaborar?
 
@@ -28,7 +30,9 @@ O sistema possui dois estados isolados de funcionamento:
 4. Abra um PR no repositório
 
 ## Tecnologias Utilizadas
-* C (Linguagem)
+- C (Linguagem)
+-  [Wokwi](https://wokwi.com/projects/461948142420101121)
+-  Arduino IDE
 
 ## 👥 Equipe
 - [MariaSinesio]
