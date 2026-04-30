@@ -3,6 +3,8 @@
 ## Sobre o Projeto
 Este projeto implementa um interpretador de instruções baseado na arquitetura de Von Neumann, utilizando um Arduino Mega 2560 e outros materiais. O sistema é capaz de receber comandos via teclado matricial, decodificar e executá-los, interagindo com periféricos conforme o ensinado (E/S), por exemplo, sensores de distância, LEDs, buzzer e display de 7 segmentos.
 
+Em suma, ele demonstra o funcionamento de uma CPU simples, onde o sistema executa instruções armazenadas em memória, utilizando registradores como PC, IR e ACC, seguindo o ciclo de busca, decodificação e execução, e interagindo com dispositivos físicos comentados anteriormentee
+
 ## Operação
 O sistema possui dois estados isolados de funcionamento:
 1.  **Modo LOAD:** Permite a inserção de instruções mnemônicas via teclado matricial, convertendo-as para opcodes e armazenando-as sequencialmente na memória.
